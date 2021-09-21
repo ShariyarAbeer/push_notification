@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454991123421",
+    "project_id": "galvanized-case-254216",
+    "storage_bucket": "galvanized-case-254216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454991123421:android:60078e2591fb351acb1c34",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454991123421-8odqv1isiel37qvnfrgmbqimtf6s7ed1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaqdBMN9_WRYcHXwpo2fn9U5S1AJWMM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454991123421-8odqv1isiel37qvnfrgmbqimtf6s7ed1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
